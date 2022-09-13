@@ -1,14 +1,14 @@
 Sagar ultra pro legend,
 Smartest kid in the class,
 do yu guys agree?
-<<<<<<< HEAD
+Shubham Patel => YES
+
+
 Hrishikesh: Yes
-=======
-<<<<<<< HEAD
+
 
 Atish:- Yes I agree.
 
-=======
 
 
 Pradyumn- I agree...
@@ -19,5 +19,3 @@ MANIK PAHALWAN
 
 Sandeep - Yes, I totally agree
 
->>>>>>> 8158be458ada79105ca47e8cb93660f2d8654a99
->>>>>>> 3bc8f468a52f7dc8f9919b24b0ea5f39df9305e8
