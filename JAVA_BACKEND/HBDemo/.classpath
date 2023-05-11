@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/hibernate-core-4.3.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jackson-databind-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/oracljdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-aop-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-beans-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-context-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-core-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-expression-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-jdbc-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-orm-4.3.7.RELEASE.jar" sourcepath="/springorm"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-tx-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-web-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/SpringJars/SpringJars/SpringHibernate/spring-webmvc-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahendraJ2/Downloads/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
